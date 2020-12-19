@@ -1797,11 +1797,11 @@ section {
   text-align: center;
   font-size: 13px;
 }
-.logo-Title{
-  letter-spacing: 15px;
-  font-size: 26px;
-}
 .logo-Desc{
   font-size: 10px;
   line-height: 1rem;
+}
+.logo-Title{
+  letter-spacing: 15px;
+  font-size: 26px;
 }
